@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>780.jpg</file>
+        <file>gk2.jpg</file>
+        <file>mainwindowBackground.jpg</file>
+        <file>pekingU.jpg!con</file>
+        <file>vxpay.jpg</file>
+        <file>alipay.png</file>
+        <file>0c9e8b50da188bbc1b1944debcc4262.jpg</file>
+        <file>0cee67b6003bfe0b1cd74bf6c6142c9.jpg</file>
+        <file>1d4103954f0af7b2c62b65c9eccb932.jpg</file>
+        <file>1fad4ffcf45a34131780cb353d0ff62.jpg</file>
+        <file>2f325f0fe59db3ea1f96e4a4c579c21.jpg</file>
+        <file>5bc5d6b9a9fcd52f8c7dae7c0c932dd.jpg</file>
+        <file>9a2232d65c51d0f90a52080c48f875c.jpg</file>
+        <file>9b3e6da514befc64a32d52fdb180533.jpg</file>
+        <file>19d702b8207fb5e1a4455fc927874f0.jpg</file>
+        <file>34a53a1013c11343eea6cd5b1d9f31e.jpg</file>
+        <file>61c6bb6baaa4561ae4bb478885995bd.jpg</file>
+        <file>90b6ab52a763786ca62b129454902b8.jpg</file>
+        <file>135b16669e79d111b265a9f366f6cab.jpg</file>
+        <file>522c68c0c1f3713602784c7be53b419.jpg</file>
+        <file>739d274f04e70a97feb7dbdd7103a69.jpg</file>
+        <file>04466b8cbbe4854786f4fedfd98a622.jpg</file>
+        <file>86129b05092c8ffc4608a022794f6eb.jpg</file>
+        <file>8539380dfbefc486390c0bc827d2289.jpg</file>
+        <file>b23964b6f961471e3e84a45ea204f38.jpg</file>
+        <file>c31d706702c6862f658c253667fc6c2.jpg</file>
+        <file>c89b094a3aa34d6c11d92bc37736685.jpg</file>
+        <file>ab2eff0398549d21ab646e75ffb66ac.jpg</file>
+        <file>c42b72dd67c4baf233a04ee597e9b50.jpg</file>
+        <file>money.png</file>
+        <file>return.jpg</file>
+        <file>purewhite.jpeg</file>
+        <file>back_ (2).png</file>
+        <file>back_a.png</file>
+        <file>back.png</file>
+        <file>back_g.png</file>
+        <file>touxiang.jpeg</file>
+        <file>tx_1.jpg</file>
+        <file>tx_2.jpg</file>
+    </qresource>
+</RCC>
